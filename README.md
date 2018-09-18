@@ -1,0 +1,2 @@
+# samble-program
+python program
